@@ -1,5 +1,3 @@
-dvc 
-dvc_gdrive
 scikit-learn
 pandas
 numpy
